@@ -1,6 +1,6 @@
 name: Release
 on:
-  workflow_dispatch:
+  workflow_dispatch:cải tiến-cli/.github/quy trình công việc/ phát hành.yml
   push:
     branches:
       - main
